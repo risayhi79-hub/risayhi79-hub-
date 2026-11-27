@@ -15,7 +15,7 @@ Git and GitHub
 My Projects 💻
 Here are some of my projects:
 
-Project 1 – 
+Project 1 – https://github.com/risayhi79-hub/doyen-gym
 Connect With Me 🤝
 GitHub: https://github.com/risayhi79-hub
 LinkedIn: https://www.linkedin.com/in/rishiraj79/
